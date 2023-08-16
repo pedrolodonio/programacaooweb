@@ -6,8 +6,8 @@ for (let c = 2; c < num; c++) {
         console.log("0")
         break
     }
-    
-    else{
+
+    else {
         console.log("1")
         break
     }
