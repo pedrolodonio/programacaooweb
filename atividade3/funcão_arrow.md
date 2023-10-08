@@ -44,7 +44,7 @@ function superFuncao(a, b) {
     return diaDoMes;
 }
 ~~~
-
+### Exemplo com arrow
 ~~~
 const superFunçaoV2 = (a,b) => {
     let subtracao = a - b;
